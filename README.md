@@ -1,11 +1,17 @@
 # 오픈소스 SW활용 소개 페이지 제작
 
+<br/>
+
 ## 프로젝트 소개
 오픈소스 SW활용 과목에서 학습한 내용을 바탕으로 협업하여 과목 소개 페이지를 제작합니다. 본 프로젝트는 HTML과 CSS를 활용하여 웹 페이지를 제작하고, Git을 통한 협업 과정을 학습 및 적용하는 데 중점을 둡니다.
+
+<br/>
 
 ## 사용 기술
 - **HTML**
 - **CSS**
+
+<br/>
 
 ## 강의 내용 정리
 1. **리드미 작성(마크다운)법**  
@@ -25,8 +31,19 @@
 8. **태그 붙이기**  
    - 프로젝트 릴리즈 관리와 특정 시점 기록을 위한 태그 활용법.
 
+<br/>
+
 ## 결과물
 1. **페이지**  
-   - 오픈소스 SW활용 과목을 소개하는 웹 페이지(이미지 및 링크첨부) 여기에 이미지 넣어야됨!
+오픈소스 SW활용 과목을 소개하는 웹 페이지
+<a href="https://opensource-practice.github.io/project/" target="_blank">
+![alt text](opensource-practice.github.io_project_(pc).png)
+</a>
+
+[웹 페이지 링크](https://opensource-practice.github.io/project/)
+
+<br/>
+
 2. **깃크라켄 그래프**  
-   - 프로젝트의 Git 기록과 협업 과정을 시각적으로 확인 가능한 그래프(이미지 첨부)
+프로젝트의 Git 기록과 협업 과정을 시각적으로 확인 가능한 그래프
+![alt text](image.png)
