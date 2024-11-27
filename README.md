@@ -37,7 +37,9 @@
 1. **페이지**  
 오픈소스 SW활용 과목을 소개하는 웹 페이지
 <a href="https://opensource-practice.github.io/project/" target="_blank">
+
 ![alt text](opensource-practice.github.io_project_(pc).png)
+
 </a>
 
 [웹 페이지 링크](https://opensource-practice.github.io/project/)
